@@ -1,4 +1,4 @@
-// File: /Users/cindy/Repositories/remind-me/app/layout.tsx
+// File: /Users/cindy/Repositories/remind-rise/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
